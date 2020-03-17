@@ -1,6 +1,6 @@
 OPER 782 Analytic Deployment Review
 ================
-11 March 2020
+13 March 2020
 
 <!-- badges: start -->
 
@@ -79,13 +79,13 @@ project, and the assigned reviewers.
 
 | Developer          | Git\_URL                                          | Reviewer1          | Reviewer2          |
 | :----------------- | :------------------------------------------------ | :----------------- | :----------------- |
-| Marc Chale         | <https://github.com/marcchale/Rexis>              | Brandon Hufstetler | Clayton Wilson     |
-| Brandon Hufstetler | <https://github.com/bjhufstetler/LeapFrog>        | Benjamin Mayo      | Clarence Williams  |
-| Benjamin Leiby     | <https://github.com/mrkaliv/logreg>               | Clayton Wilson     | Benjamin Mayo      |
-| Benjamin Mayo      | <https://github.com/HarmonicAnova21/FRame.BuildR> | Ryan Walton        | Marc Chale         |
-| Ryan Walton        | <https://github.com/ryanwalton57/allyR>           | Marc Chale         | Benjamin Leiby     |
-| Clarence Williams  | <https://github.com/clarencew0083/recSystem>      | Benjamin Leiby     | Ryan Walton        |
-| Clayton Wilson     | <https://github.com/clawilso15/Text.Replace>      | Clarence Williams  | Brandon Hufstetler |
+| Marc Chale         | <https://github.com/marcchale/Rexis>              | Clayton Wilson     | Benjamin Mayo      |
+| Brandon Hufstetler | <https://github.com/bjhufstetler/LeapFrog>        | Clarence Williams  | Marc Chale         |
+| Benjamin Leiby     | <https://github.com/mrkaliv/logreg>               | Benjamin Mayo      | Ryan Walton        |
+| Benjamin Mayo      | <https://github.com/HarmonicAnova21/FRame.BuildR> | Benjamin Leiby     | Clarence Williams  |
+| Ryan Walton        | <https://github.com/ryanwalton57/allyR>           | Marc Chale         | Brandon Hufstetler |
+| Clarence Williams  | <https://github.com/clarencew0083/recSystem>      | Ryan Walton        | Clayton Wilson     |
+| Clayton Wilson     | <https://github.com/clawilso15/Text.Replace>      | Brandon Hufstetler | Benjamin Leiby     |
 
 List of developers, projects, and assigned reviewers for OPER782 (Winter
 2020)
